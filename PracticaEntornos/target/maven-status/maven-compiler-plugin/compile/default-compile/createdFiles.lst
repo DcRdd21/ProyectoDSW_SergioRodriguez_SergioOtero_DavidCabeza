@@ -1,0 +1,7 @@
+com\gf\controller\Controller.class
+com\gf\view\View.class
+com\gf\utilities\ConexionBD.class
+com\gf\logic\TrabajadoresLN.class
+com\gf\entities\Trabajadores.class
+com\gf\dao\TrabajadoresDAO.class
+com\gf\application\App.class
